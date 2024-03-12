@@ -1,8 +1,8 @@
 <!-- Título e Logo -->
 <div align="center">
-  <img src="https://www.jetbrains.com/pycharm/img/pycharm-edu/pycharm-edu-hero-1.svg" alt="PyCharm Logo" width="200"/>
+ 
   <img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" width="200"/>
-  <h1>O método __dir__()</h1>
+  <h4>O método __dir__()</h4>
 </div>
 
 <!-- Descrição -->
